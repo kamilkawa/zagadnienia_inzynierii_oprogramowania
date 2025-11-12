@@ -9,6 +9,6 @@
 - Uruchom wszystkie testy jednostkowe: `pytest -v`
 
 ## Pokrycie kodu
-- Raport pokrycia: `htmlcov/index.html`
+- Raport pokrycia: `coverage_report.txt` or detailed execution `coverage-html.tar.gz`
 - Zbierz pokrycie: `coverage run -m pytest`
 - Wygeneruj raport HTML: `coverage html` 
